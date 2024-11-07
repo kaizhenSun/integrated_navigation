@@ -1,0 +1,4 @@
+<launch>
+    <node name="integratedNavigation" pkg="integrated_navigation" type="integratedNavigation_node" output="screen">
+    </node>
+</launch>
